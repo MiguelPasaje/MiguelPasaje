@@ -27,6 +27,9 @@ const miguelPasaje = {
 
 
 [![GitHub: MiguelPasaje](https://img.shields.io/github/followers/MiguelPasaje?label=follow&style=social)](https://github.com/MiguelPasaje)
+
+[![GitHub: MiguelPasaje](https://img.shields.io/static/v1?label=Page&message=MiguelPasaje&color=COLOR)](https://miguelpasaje.github.io/MyPortafolio/)
+
 <!--
  I recently started my Youtube channel, please follow me there!
  [![Youtube Vanessa's channel](https://img.shields.io/youtube/channel/subscribers/UC0l3fZnjE-xi0DWjFIVnUjA?label=Vanessa%20Channel&style=social)](https://www.youtube.com/channel/UC0l3fZnjE-xi0DWjFIVnUjA)
